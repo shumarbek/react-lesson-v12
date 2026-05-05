@@ -1,0 +1,17 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    width: 300px;
+}
+
+.navbar li:hover {
+    color: red;
+}
+
+.navbar a {
+    color: blue;
+    text-decoration: none;
+    margin: 0 10px;
+}
